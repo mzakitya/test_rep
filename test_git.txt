@@ -1,2 +1,4 @@
 最初の一行
 追加の二行め
+・git add
+・git commit
